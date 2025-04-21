@@ -14,7 +14,7 @@
 **Graphical Abstract:**
 
 <div style="text-align: center;">
-  <img src="Figs/GraphicalAbstract.png" alt="Graphical Abstract" width="500"/>
+  <img src="GraphicalAbstract.png" alt="Graphical Abstract" width="500"/>
 </div>
 
 **Datasets:**
